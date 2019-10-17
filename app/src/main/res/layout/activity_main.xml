@@ -24,14 +24,14 @@
         android:id="@+id/button_zoom_in"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="44dp"
+        android:layout_marginStart="50dp"
         android:layout_marginTop="320dp"
         android:background="@color/black"
         android:text="@string/zoom_in"
         android:textColor="@color/white"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
-        
+
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
@@ -39,7 +39,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="320dp"
-        android:layout_marginEnd="44dp"
+        android:layout_marginEnd="50dp"
         android:background="@color/black"
         android:text="@string/zoom_out"
         android:textColor="@color/white"
@@ -53,7 +53,7 @@
         android:id="@+id/button_fade_in"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="44dp"
+        android:layout_marginStart="50dp"
         android:layout_marginBottom="224dp"
         android:background="@color/black"
         android:text="@string/fade_in"
@@ -67,7 +67,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="50dp"
-        android:layout_marginBottom="225dp"
+        android:layout_marginBottom="224dp"
         android:background="@color/black"
         android:text="@string/fade_out"
         android:textColor="@color/white"
