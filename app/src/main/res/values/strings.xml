@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Animation Challenge</string>
+    <string name="app_name">Team 30 Animation Challenge</string>
+    <string name="team_30">Team 30 Animation Challenge</string>
+    <string name="zoom_in">Zoom in</string>
+    <string name="zoom_out">Zoom out</string>
+    <string name="fade_in">Fade in</string>
+    <string name="fade_out">Fade out</string>
+    <string name="blink">Blink</string>
 </resources>
